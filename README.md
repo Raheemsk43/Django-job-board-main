@@ -20,9 +20,7 @@ You will need to have the following software installed on your system:
 
 1. Clone the repository to your local machine:
 
-```
-git clone git@github.com:sarahhudaib/django-job-board.git
-```
+```git clone https://github.com/Raheemsk43/Django-job-board-main.git
 
 2. Navigate to the project directory:
 
